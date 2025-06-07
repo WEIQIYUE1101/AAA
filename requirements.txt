@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+matplotlib
+st_ant_menu
+streamlit_pdf_viewer
